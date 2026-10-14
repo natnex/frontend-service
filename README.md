@@ -69,18 +69,6 @@ No server headaches just pure focus on building an awesome experience!
 
 👉 [**loca.live**](https://frontend-service-ykmr.onrender.com/)
 
-## Screenshots 📸
-
-<div align="center">
-  <img src="./src/assets/snapshot1.jpg" alt="Sample Snapshot 1" width="800" />
-  <p>Live Streaming in Action</p>
-</div>
-
-<div align="center">
-  <img src="./src/assets/snapshot2.jpg" alt="Sample Snapshot 2" width="800" />
-  <p>Real-Time Chat Vibes</p>
-</div>
-
 ## Developer 💻
 
 <div align="center">
